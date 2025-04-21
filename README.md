@@ -62,6 +62,3 @@ I'm **Anas Nofal**, a data professional with deep expertise in:
 
 ---
 
-<h2>📈 GitHub Contribution History</h2>
-
-![Snake animation](https://github.com/anasnofal/anasnofal/blob/output/github-contribution-grid-snake.svg)
