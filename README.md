@@ -18,8 +18,7 @@ I'm **Anas Nofal**, a data professional with deep expertise in:
 - 🤝 Open to **collaborating** on open-source AI/ML projects
 - 💬 Feel free to chat with me about **data, AI, or machine learning**
 - 📫 Connect on [LinkedIn](https://www.linkedin.com/in/anasnofal17/) or shoot me an email: **[anasnofal17@gmail.com](mailto:anasnofal17@gmail.com)**
-- ❤️ Avid book reader & chess enthusiast
-- ⚡ Fun fact: I have a big interest in **quantum mechanics** and **classical physics**
+- ❤️ Avid book reader 
 
 ---
 
