@@ -9,7 +9,7 @@
 I'm **Anas Nofal**, a data professional with deep expertise in:
 
 - Data Design, Management, and Analysis  
-- AI/ML with experience in **Computer Vision**, **Natural Language Processing**
+- AI/ML with experience in **Computer Vision** and **Natural Language Processing**
 
 #### 🧠 Here's what I'm into:
 
